@@ -1,0 +1,16 @@
+20 - 60 Stand  (40)
+80 - 120 Walk  (40)
+140 - 170 Guard  (30)
+190 - 220 Counter  (30)
+240 - 260 Hit  (20)
+280 - 330 Knock  (50)
+330 - 360 Recover  (30)
+380 - 440 Jump (60)
+460 - 500 Stun (40)
+520 - 580 ATK LLLL (60)
+580 - 645 ATK MMM
+660 - 690 ATK LLM [Just M]
+700 - 730 ATK JM
+740 - 840 Starting
+840 - 900 Victory
+920 - 1210 Finisher
